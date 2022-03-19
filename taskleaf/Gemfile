@@ -67,3 +67,9 @@ gem 'html2slim'
 
 # add to use bootstrap at March 9, 2022
 gem 'bootstrap', '~> 4.6'
+
+# add to use has_secure_password at March 15, 2022
+gem 'bcrypt', '~> 3.1.7'
+
+# to make url as a link at March 16, 2022
+gem 'rails_autolink' 
